@@ -14,7 +14,7 @@ Steps:
         flag: 'sftp://restcountries.eu/data/ala.svg' },
       { country: 'Albania',
         capital: 'Tirana',
-        flag: 'sftp://restcountries.eu/data/alb.svg' }]
+        flag: 'sftp://restcountries.eu/data/alb.svg' }]    
        ......
    4. Json file will be created with timepstamp and required response data in it in same path.
     sample:
